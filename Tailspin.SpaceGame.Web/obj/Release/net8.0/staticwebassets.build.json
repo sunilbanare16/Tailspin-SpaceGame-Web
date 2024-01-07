@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NeOrCqSUDTWHzMx5g7ZP8/0D8PMR5xH23Chi1hPeNLE=",
+  "Hash": "zhY1cJ/C20B+M+8VbRUgzATTP0oa3A2xIBXPOntxVKk=",
   "Source": "Tailspin.SpaceGame.Web",
   "BasePath": "_content/Tailspin.SpaceGame.Web",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Tailspin.SpaceGame.Web\\wwwroot",
+      "Name": "Tailspin.SpaceGame.Web/wwwroot",
       "Source": "Tailspin.SpaceGame.Web",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\css\\site.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/css/site.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\css\\site.css.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/css/site.css.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "css/site.css.map",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css.map"
+      "OriginalItemSpec": "wwwroot/css/site.css.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/css/site.min.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.min.css"
+      "OriginalItemSpec": "wwwroot/css/site.min.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\css\\site.scss",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/css/site.scss",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.scss"
+      "OriginalItemSpec": "wwwroot/css/site.scss"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\favicon.ico",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/favicon.ico",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\avatars\\default.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/avatars/default.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/avatars/default.svg",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\avatars\\default.svg"
+      "OriginalItemSpec": "wwwroot/images/avatars/default.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\placeholder.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/placeholder.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/placeholder.svg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\placeholder.svg"
+      "OriginalItemSpec": "wwwroot/images/placeholder.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\space-background.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/space-background.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/space-background.svg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\space-background.svg"
+      "OriginalItemSpec": "wwwroot/images/space-background.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\space-foreground.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/space-foreground.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/space-foreground.svg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\space-foreground.svg"
+      "OriginalItemSpec": "wwwroot/images/space-foreground.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\space-game-placeholder.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/space-game-placeholder.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/space-game-placeholder.svg",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\space-game-placeholder.svg"
+      "OriginalItemSpec": "wwwroot/images/space-game-placeholder.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\images\\space-game-title.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/images/space-game-title.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "images/space-game-title.svg",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\space-game-title.svg"
+      "OriginalItemSpec": "wwwroot/images/space-game-title.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\js\\site.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/js/site.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\js\\site.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/js/site.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.min.js"
+      "OriginalItemSpec": "wwwroot/js/site.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/.bower.json",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/.bower.json",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\.bower.json"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/.bower.json"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/dist/js/npm.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/dist/js/npm.js",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/npm.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/.bower.json",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/.bower.json"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/.bower.json",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/.bower.json",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\.bower.json"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/.bower.json"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery\\.bower.json",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery/.bower.json",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery/.bower.json",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\.bower.json"
+      "OriginalItemSpec": "wwwroot/lib/jquery/.bower.json"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Tailspin.SpaceGame.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\wwwroot\\",
+      "ContentRoot": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/wwwroot/",
       "BasePath": "_content/Tailspin.SpaceGame.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -888,7 +888,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     }
   ]
 }
