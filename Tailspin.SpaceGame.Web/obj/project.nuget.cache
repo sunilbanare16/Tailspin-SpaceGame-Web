@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8uFY9lv7OQuyGui5931Xkdf+/oBMio4TfgtS77ZcG71jF6EqFW0DZBDmBKc2bxJYF7ncIcvFtrcb1mQhAnlKyg==",
+  "dgSpecHash": "FkJgdvBb4XrpBmFv6X0eJmoerwdBrwD8EEfo+KWuG2rVt7Kohl0GSh1Z7hxciqUe9K0wI/GLDpePG0nTsUS2SA==",
   "success": true,
-  "projectFilePath": "C:\\DevOpsRepo\\Tailspin-SpaceGame-Web\\Tailspin.SpaceGame.Web\\Tailspin.SpaceGame.Web.csproj",
+  "projectFilePath": "/workspaces/Tailspin-SpaceGame-Web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
