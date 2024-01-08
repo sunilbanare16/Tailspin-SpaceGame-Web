@@ -13,8 +13,7 @@ steps:
   inputs:
     packageType: sdk
     version: '8.x'
-
-steps:
+    
 - task: UseNode@1
   inputs:
     version: '12.x'
