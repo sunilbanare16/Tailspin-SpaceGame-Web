@@ -28,6 +28,14 @@ steps:
   inputs:
     verbose: false
 
+- task: Npm@1
+  displayName: 'Install Gulp CLI Globally'
+  inputs:
+    command: custom
+    customCommand: 'install -g gulp-cli'
+    workingDir: '$(Build.SourcesDirectory)'
+    verbose: false   
+
 - script: './node_modules/.bin/node-sass Tailspin.SpaceGame.Web/wwwroot --output Tailspin.SpaceGame.Web/wwwroot'
   displayName: 'Compile Sass assets'
 
