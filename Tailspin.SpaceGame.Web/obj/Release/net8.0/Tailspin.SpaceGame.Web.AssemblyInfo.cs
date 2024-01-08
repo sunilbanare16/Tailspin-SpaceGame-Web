@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tailspin.SpaceGame.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98496ff85a1fbe2d52b3415c8fe7bbd3bd382ac9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d561cb8f1a591b7507ee4632b68a0b58c443d3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tailspin.SpaceGame.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tailspin.SpaceGame.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
