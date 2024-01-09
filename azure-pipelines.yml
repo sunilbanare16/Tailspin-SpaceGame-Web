@@ -59,13 +59,12 @@ steps:
     command: 'restore'
     projects: '**/*.csproj'
 
-- template: templates/build.yml
-  parameters:
-    buildConfiguration: 'Debug'
-
-- template: templates/build.yml
-  parameters:
-    buildConfiguration: 'Release'
+- task: DotNetCoreCLI@2
+  displayName: 'Build the project - $(buildConfiguration)'
+  inputs:
+    command: 'build'
+    arguments: '--no-restore --configuration $(buildConfiguration)'
+    projects: '**/*.csproj'
 
 - task: VSTest@3
   inputs:
@@ -75,6 +74,26 @@ steps:
       !**\*TestAdapter.dll
       !**\obj\**
     searchFolder: '$(System.DefaultWorkingDirectory)'
+
 - task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact: drop'
-  condition: succeeded()
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'FilePath'
+    TargetPath: '\\webserverpath\CaseStudy'
+
+- task: IISWebAppManagementOnMachineGroup@0
+  inputs:
+    IISDeploymentType: 'IISWebsite'
+    AddBinding: true
+    Bindings: 80
+    AppPoolName: 'CaseStudyAppPool'
+    ActionIISWebsite: 'CreateOrUpdateWebsite'
+    WebsiteName: 'CaseStudy'
+    WebsitePhysicalPath: '%SystemDrive%\inetpub\wwwroot'
+    WebsitePhysicalPathAuth: 'WebsiteUserPassThrough'
+- task: IISWebAppDeploymentOnMachineGroup@0
+  inputs:
+    WebSiteName: 'CaseStudy'
+    VirtualApplication: 'CaseStudyApp'
+    Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
